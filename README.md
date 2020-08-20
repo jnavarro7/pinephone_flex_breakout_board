@@ -7,27 +7,27 @@ This Flex board was designed to be able to expose these pins outside of the Pine
 
 As fas as I know there is no CAD files available so I had to measure directly on the PinePhone to create this prototype, and then use the method of printing the PCB in 1:1 scale for measures. 
 
-![Paper PCB 1 to 1](/pictures/paper_1to1.JPG) <!-- .element height="50%" width="50%" --
-![Paper PCB outside](/pictures/paper_outside.JPG) <!-- .element height="50%" width="50%" --
+![Paper PCB 1 to 1](/pictures/paper_1to1.JPG)
+![Paper PCB outside](/pictures/paper_outside.JPG)
 
 ## Pogo Pins
 The way the PinePhone exposes power, interrupt and I2C port is via a set of 6 pogo pins that stick out on the back of the PinePhone. 
 
-![Pogo Pins](/pictures/pogopins.JPG) <!-- .element height="50%" width="50%" --
+![Pogo Pins](/pictures/pogopins.JPG)
 
 ## Pogo Pins Pinout
 The schematic from Pine64 is not very clear and does not states which I2C pin is which so this is still to be confirmed.  Once I know which is DATA and which is CLK I will update the design. 
-![Pogo Pins](/pictures/layout.JPG) <!-- .element height="50%" width="50%" --
+![Pogo Pins](/pictures/layout.JPG)
 
 ## Flex board prototype
 The protoype is meant to be mounted with screws using the ones already available in the PinePhone but longer screws will be needed to make a better attachment. 
 
-![Flex Boards](/pictures/flex_boards.JPG) <!-- .element height="50%" width="50%" --
-![Positioning on the back of the PinePhone](/pictures/flex_positioning.JPG) <!-- .element height="50%" width="50%" --
-![Flex Board sticking out](/pictures/flex_outside.JPG) <!-- .element height="50%" width="50%" --
-![Measurements](/pictures/measurements.JPG) <!-- .element height="50%" width="50%" --
+![Flex Boards](/pictures/flex_boards.JPG)
+![Positioning on the back of the PinePhone](/pictures/flex_positioning.JPG)
+![Flex Board sticking out](/pictures/flex_outside.JPG)
+![Measurements](/pictures/measurements.JPG)
 
 ## Next steps
 This is only 1 part of the prototype, the other part of the system is sensors boards that will attach to this breakout board and communicate using the I2C protocol. 
-![Prototype](/pictures/prototype.JPG) <!-- .element height="50%" width="50%" --
+![Prototype](/pictures/prototype.JPG)
 
