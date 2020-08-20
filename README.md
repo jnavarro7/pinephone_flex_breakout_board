@@ -17,7 +17,7 @@ The way the PinePhone exposes power, interrupt and I2C port is via a set of 6 po
 
 ## Pogo Pins Pinout
 The schematic from Pine64 is not very clear and does not states which I2C pin is which so this is still to be confirmed.  Once I know which is DATA and which is CLK I will update the design. 
-![Pogo Pins](/pictures/layout.JPG)
+![Pogo Pins](/pictures/layout.jpg)
 
 ## Flex board prototype
 The protoype is meant to be mounted with screws using the ones already available in the PinePhone but longer screws will be needed to make a better attachment. 
