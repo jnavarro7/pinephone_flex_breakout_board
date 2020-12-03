@@ -31,3 +31,13 @@ The protoype is meant to be mounted with screws using the ones already available
 This is only 1 part of the prototype, the other part of the system is sensors boards that will attach to this breakout board and communicate using the I2C protocol. 
 ![Prototype](/pictures/prototype.JPG)
 
+## Design
+
+The design was created using <a href="https://diptrace.com" title="DipTrace">DipTrace</a>
+
+## Try it for yourself
+You can get the flex board from OSH Park using this direct link to order the project. 
+
+<a href="https://oshpark.com/shared_projects/iJymtIab" title="Order boards with OSHPark">Order boards with OSHPark</a>
+
+Remember to order it as a Flex Board!. 
