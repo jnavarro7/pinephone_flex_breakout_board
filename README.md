@@ -38,7 +38,7 @@ The design was created using <a href="https://diptrace.com" title="DipTrace">Dip
 ## Try it for yourself
 You can get the flex board from OSH Park using this direct link to order the project. 
 
-<a href="https://oshpark.com/shared_projects/iJymtIab" title="Order boards with OSHPark">Order boards with OSHPark</a>
+<a href="https://oshpark.com/shared_projects/iJymtIab"><img src="https://oshpark.com/packs/media/images/badge-5f4e3bf4bf68f72ff88bd92e0089e9cf.png" alt="Order from OSH Park"></img></a>
 
 Remember to order it as a Flex Board!. 
 
