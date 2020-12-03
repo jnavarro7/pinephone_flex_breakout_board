@@ -41,3 +41,8 @@ You can get the flex board from OSH Park using this direct link to order the pro
 <a href="https://oshpark.com/shared_projects/iJymtIab" title="Order boards with OSHPark">Order boards with OSHPark</a>
 
 Remember to order it as a Flex Board!. 
+
+## License
+
+Released under the Creative Commons Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
