@@ -2,6 +2,11 @@
 ## Flex PCB breakout board for the PinePhone from Pine64
 The PinePhone is an smart phone that supports the major Linux for mobile distributions. [Pine64 - PinePhone](https://www.pine64.org/pinephone/)
 
+## Get it in the Pine64 Store
+Pine64 has put an awesome kit that includes the flex board and screws to secure it onto the PinePhone, you can get in this link [PinePhone Breakout Flex Board](https://pine64.com/product/pinephone-flex-break-out-board/?v=0446c16e2e66)
+
+
+## Expansion port
 The PinePhone exposes power, an interrupt pin and an I2C port on the back of it. 
 This Flex board was designed to be able to expose these pins outside of the PinePhone with even the back cover on. 
 
