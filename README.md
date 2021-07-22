@@ -32,6 +32,12 @@ The protoype is meant to be mounted with screws using the ones already available
 ![Flex Board sticking out](/pictures/flex_outside.JPG)
 ![Measurements](/pictures/measurements.JPG)
 
+## V2, version 2 with Pinout on the silkscreen
+
+![Pinout on Silkscreen](/pictures/pinout_name_silkscreen.jpg)
+
+Updated board file (breakout_board_flex_v2.dip) and gerbers (breakout_board_flex_gerber_v2.zip) will be added onto the project. 
+
 ## Next steps
 This is only 1 part of the prototype, the other part of the system is sensors boards that will attach to this breakout board and communicate using the I2C protocol. 
 ![Prototype](/pictures/prototype.JPG)
